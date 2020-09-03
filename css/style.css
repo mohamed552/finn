@@ -34,7 +34,7 @@ li {
   margin-left: 80px;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 320px) {
   .navbar {
     width: auto;
     height: 70px;
